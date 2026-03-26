@@ -102,7 +102,7 @@ Ask the AI to guide you through each one. It will fill every field for you.
 
 ## Red Flags to Look For
 
-- Sender domain is slightly different from the real company (example: albertsonstore.com vs albertsons.com)
+- Sender domain is slightly different from the real company
 - Unsolicited email with no prior application
 - Offers salary, housing, car and benefits before any interview
 - Asks for passport scan or educational certificates upfront
