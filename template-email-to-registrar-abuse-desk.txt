@@ -1,0 +1,88 @@
+Dear xxxxxxx xxxxxxxxx Abuse Team,
+I am writing to formally report an active cybercrime and employment fraud operation being conducted via a domain registered through your platform.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FRAUDULENT DOMAIN DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Domain:              xxxxxxxxxSTORE.COM
+Registered On:       2026-02-16
+Registrar:           xxxxxxx xxxxxxxxx Ltd. (IANA ID: 1495)
+Registrant Name:     xxxxx xxxxx (believed to be false)
+Registrant Email:    xxxxxxxxxxxxx@gmail.com
+Registrant Phone:    +1.707xxxxxxx
+Registrant Address:  XXXXX, XXXXX, Other, 111111 (deliberately falsified)
+Name Servers:        NS1.CP-HT-9.xxxxxxxSERVERS.COM / NS2.CP-HT-9.xxxxxxxSERVERS.COM
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NATURE OF THE FRAUD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The domain xxxxxxxxxSTORE.COM is being actively used to impersonate xxxxxxxxxs xxxxxxxxx Inc., a legitimate Fortune 500 US corporation (actual domain: xxxxxxxxxs.com / xxxxxxxxxsxxxxxxxxx.com), to conduct an advance-fee employment fraud campaign targeting job seekers.
+
+The fraud operates as follows:
+
+1. Unsolicited emails are sent from hr-recruitment@xxxxxxxxxstore.com impersonating xxxxxxxxxs xxxxxxxxx' HR department.
+2. Targets are sent two fraudulent PDF attachments - a fake "Employment Form 2026" and a fake "Contract Agreement Letter" - both bearing stolen xxxxxxxxxs branding and logo.
+3. Targets are instructed to submit passport scans, educational certificates, personal identification, WhatsApp numbers, and signed contracts.
+4. The contract then instructs targets to pay an upfront "visa processing fee" with a false promise of reimbursement - the defining mechanism of advance-fee fraud.
+
+This constitutes:
+- Brand impersonation / trademark infringement (xxxxxxxxxs xxxxxxxxx Inc.)
+- Advance-fee fraud (419 scam)
+- Identity document harvesting
+- Deliberate falsification of WHOIS registrant data (address listed as XXXXX, 111111)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EVIDENCE OF WHOIS VIOLATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The registrant mailing address on record is deliberately falsified as "XXXXX, XXXXX, Other, 111111." This is a direct violation of ICANN's Registrar Accreditation Agreement (RAA) Section 3.7.7.1, which requires accurate and complete registrant contact data. This alone constitutes grounds for immediate domain suspension under ICANN policy.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EVIDENCE ATTACHED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Attached to this email:
+1. Original scam email with full headers - report.pdf
+2. Fraudulent "xxxxxxxxxs Employment Form 2026" PDF (Vol 009740)
+3. Fraudulent "xxxxxxxxxs Contract Agreement Letter" PDF (Vol 009820)
+4. WHOIS record screenshot for xxxxxxxxxSTORE.COM - ownership-info-xxxxxxxxxstore-com.png
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+REQUESTED ACTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I formally request that xxxxxxx xxxxxxxxx Ltd. take the following immediate actions:
+
+1. Suspend and take offline the domain xxxxxxxxxSTORE.COM pending investigation.
+2. Preserve all registration records, logs, billing information, and associated account data for law enforcement.
+3. Report the registrant account (xxxxxxxxxxxxx@gmail.com) to relevant cybercrime authorities.
+4. Provide a confirmation of receipt and action taken.
+
+This matter has been simultaneously reported to:
+- xxxxxxxxxs xxxxxxxxx Inc. legal team
+- FBI Internet Crime Complaint Center (IC3.gov)
+- Federal Trade Commission (reportfraud.ftc.gov)
+- Anti-Phishing Working Group (APWG)
+- ICANN WHOIS Inaccuracy Complaint (icann.org/wicf)
+- India CERT-In
+- US-CERT / CISA
+- Action Fraud UK / NCSC
+- Google Abuse Team (re: xxxxxxxxxxxxx@gmail.com)
+
+The perpetrators have been CC'd on this email and are hereby formally notified that their operation has been fully documented, their registrant identity has been traced, and this report is now in the hands of multiple law enforcement and cybercrime agencies across multiple jurisdictions.
+
+I expect a response confirming receipt and action within 48 hours.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTE TO THE PERPETRATORS (CC: hr-recruitment@xxxxxxxxxstore.com)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You are CC'd on this email intentionally.
+
+Your domain was registered on 2026-02-16 through xxxxxxx xxxxxxxxx using the account xxxxxxxxxxxxx@gmail.com and phone number +1.707xxxxxxx. Your WHOIS address of "XXXXX, 111111" has been flagged as a deliberate falsification and reported to ICANN. Your PDF templates (Vol 009740 and Vol 009820) have been catalogued and cross-referenced against known fraud campaigns.
+
+Every agency listed above now has your complete dossier.
+
+You picked the wrong person.
